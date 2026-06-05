@@ -90,11 +90,16 @@ Outros pontos:
 |---|---|---|
 | **Janad Valcari** | PP | Dep. estadual mais votada; ~70 mil votos no 2º turno de Palmas (2024). **Favorita natural.** |
 | **Jair Farias** | UB | Bico do Papagaio (região sem representante há 15+ anos); apadrinhado por Eduardo Gomes. |
+| **Nilmar Ruiz** | PL | **Ex-deputada federal e ex-prefeita de Palmas**; apoio nacional do PL (Valdemar/Michelle). |
+| **Coronel Márcio Barbosa** | Republicanos | Ex-comandante-geral da PM; **entre os mais citados em pesquisa**; bandeira da segurança; apoio do governador. |
+| **Cinthia Ribeiro** | PSDB | **Ex-prefeita de Palmas**; pré-candidatura deliberada pela cúpula nacional do PSDB. |
 | **Lucas Campelo** | Republicanos | Vereador mais votado de Araguaína; migrou do UB para o partido do governador. |
 | **César Halum** | PP | Ex-deputado federal, base no norte. |
 | **Luana Ribeiro** | PSD | Ex-deputada federal; 1ª mulher a presidir a Assembleia. Retorno em articulação. |
 | **Célio Moura** | PT | Principal nome do PT (que mira 2 cadeiras). |
 | **Pedro Júnior** | PL | Suplente que já assumiu mandato; pode ir para estadual. |
+
+> **Atenção a inconsistências de fonte (a confirmar no registro):** a filiação de **Janad Valcari** aparece ora como PP, ora como PL; **César Halum, Luana Ribeiro e Pedro Júnior** têm pré-candidatura citada mas pouco material recente — podem não se confirmar.
 
 *Fontes: [ND Mais — projeção TO 2026](https://ndmais.com.br/politica/projecao-das-eleicoes-no-tocantins-em-2026/); [Gazeta do Cerrado — vínculos e capital político](https://gazetadocerrado.com.br/tocantins/mais-que-nomes-vinculos-o-capital-politico-que-definira-as-concorridas-oito-vagas-federais-em-2026-no-to/); [Atitude TO — janela partidária](https://atitudeto.com.br/politica/eleicoes/janela-partidaria-esquenta-bastidores-com-olho-no-quociente-eleitoral-na-disputa-a-camara-federal-no-tocantins/); [Jornal Opção — Janad Valcari](https://tocantins.jornalopcao.com.br/noticias/em-reduto-bolsonarista-janad-valcari-anuncia-pre-candidatura-a-deputada-federal-564352/).*
 
@@ -126,6 +131,21 @@ A eleição proporcional do TO se organiza em torno de quem disputa o **Governo 
 
 ---
 
+## 4.5. O universo completo de candidatos (e por que esta lista é filtrada)
+
+**Esta análise NÃO lista todos os candidatos — de propósito.** Em **2022, o TO teve 161 candidatos** a deputado federal para 8 vagas. A maioria esmagadora não tem chance real e cumpre uma de duas funções:
+
+- **Puxador de legenda:** faz de 500 a ~8 mil votos e serve só para somar ao Quociente Partidário (lembre: ninguém se elege sozinho no TO).
+- **Preenchimento de cota:** cada partido precisa de no mínimo **30% de candidaturas femininas**; muitas dessas vagas são ocupadas por nomes sem estrutura de campanha.
+
+**Critério de corte deste documento:** incluímos quem tem **mandato, histórico de votação competitiva, capital político (ex-prefeito/ex-deputado) ou padrinho com fundo**. Ficaram de fora os nomes de composição de nominata — ex.: na chapa do Republicanos aparecem Débora Ribeiro (vereadora de Gurupi), Rosa do Anjo Azul (ativista), Atos Gomes e Fábio Vaz (ex-secretários), Rosilene Martins (cantora gospel); no PSDB, Jorge Frederico. **Não estão "fora da eleição" formalmente — estão na chapa — mas a probabilidade individual de cadeira é baixíssima.** Eles importam pelo voto que entregam à legenda, não por si.
+
+> ⚠️ **Ressalva justa:** dada a dinâmica de legenda do TO, "sem chance real" ≠ "impossível". Um azarão pode surfar uma legenda muito forte e entrar pela sobra — foi assim que o 8º eleito de 2022 entrou com só 13,6 mil votos. Por isso o foco do documento é em **probabilidade**, não em exclusão absoluta.
+
+*Fonte do nº de candidatos: histórico TSE 2022; nominatas: [Bico 24h — nominata Republicanos](https://bico24horas.com.br/politica/eleicoes-2026-no-tocantins-republicanos-anuncia-nominata-forte-e-projeta-eleger-quatro-deputados-federais/); [Diário Tocantinense — Nilmar Ruiz/PL](https://diariotocantinense.com.br/palmas/2025/02/22/nilmar-ruiz-pl-nacional-apoia-pre-candidatura-a-camara-dos-deputados-em-2026/); [Agência Tocantins — Coronel Barbosa](https://www.agenciatocantins.com.br/noticia/104834/coronel-barbosa-desponta-entre-os-mais-citados-para-deputado-federal-em-pesquisa-no-tocantins); [Jornal Opção — Cinthia Ribeiro](https://tocantins.jornalopcao.com.br/noticias/cotada-para-disputar-vaga-de-deputada-federal-cinthia-fala-em-virar-a-pagina-e-associa-projeto-de-vicentinho-a-renovacao-589009/).*
+
+---
+
 ## 5. Leitura realista: quem tende a entrar, quem está em risco
 
 > Probabilidades qualitativas (Alta / Média / Baixa) com base em capital político, força de legenda e histórico. **Não são previsões fechadas.**
@@ -141,6 +161,9 @@ A eleição proporcional do TO se organiza em torno de quem disputa o **Governo 
 | **César Halum** | PP | 🟡 **Média** | Nome conhecido, mas divide o PP com Janad e Lázaro. |
 | **Lázaro Botelho** | PP | 🟠 **Baixa-Média** | Já perdeu vaga uma vez; voto de 2022 (13,6 mil) é frágil. |
 | **Célio Moura** | PT | 🟠 **Baixa-Média** | Depende de o PT bater o QP sozinho — historicamente difícil no TO. |
+| **Nilmar Ruiz** | PL | 🟡 **Média** | Ex-deputada federal com marca em Palmas; disputa o mesmo voto do PL com Filipe Martins. |
+| **Coronel Márcio Barbosa** | Republicanos | 🟡 **Média** | Pauta de segurança vende bem; mas é mais um na chapa lotada do Republicanos. |
+| **Cinthia Ribeiro** | PSDB | 🟠 **Baixa-Média** | Capital pessoal alto, mas PSDB isolado e fraco no QP estadual. |
 | **Luana Ribeiro** | PSD | 🟠 **Baixa** | Retorno incerto; legenda a construir. |
 
 **Síntese:** o cenário mais provável é **3–4 cadeiras girando em torno de Republicanos + a dupla Janad/PP + o bloco UB-PL**, com as **2 últimas vagas (a faixa dos 13–25 mil votos) absolutamente em aberto** — é ali que a eleição se decide.
