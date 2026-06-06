@@ -3,7 +3,7 @@
 **Análise para a estratégia de Rosilene Martins · Deputado Federal 2026**
 
 > **Data:** 05/06/2026 · Complementa o `dossie-estrategico-rosilene-martins.md`.
-> **Sobre os números:** os **valores exatos de gasto por candidato estão no DivulgaCandContas/Dados Abertos do TSE**, que este ambiente não acessa (egress bloqueado — 403). Os números **confirmados** abaixo vêm de fontes públicas/imprensa. Para o **gasto digital exato por candidato**, use o script anexo `extrair_gastos_tse.py` (roda na sua máquina). O que é estimativa está marcado como tal.
+> ⚠️ **OS NÚMEROS REAIS JÁ CHEGARAM.** Este documento foi escrito antes da coleta. Os valores reais de gasto/voto/digital estão em `dados-brutos/RELATORIO-MESTRE-dados-reais-tse.md` e a estratégia corrigida em `revisao-dados-reais.md`. **Correção central:** a seção 3/5 abaixo dizia que "a vantagem da Rosilene é digital" — **os dados do TSE refutam isso**: tráfego pago não elege federal no TO (Eli Borges fez 35 mil votos com R$0 de digital) e o digital da Rosilene não converteu (66 mil seguidores → 657 votos em 2024). Vale a revisão.
 
 ---
 

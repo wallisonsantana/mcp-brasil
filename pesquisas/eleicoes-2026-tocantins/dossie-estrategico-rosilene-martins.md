@@ -5,7 +5,7 @@
 
 > **Data:** 05/06/2026 · **Foco:** 100% Republicanos / pré-candidata Rosilene Martins
 > **Natureza:** análise política e de estratégia eleitoral (não é peça de marketing).
-> **Confiança dos dados:** fatos políticos e regras = alta (TSE/TRE/imprensa local). Números exatos de votação passada da candidata = **aproximados** — os portais do TSE (DivulgaCandContas) bloquearam coleta automática; recomenda-se confirmar manualmente antes de qualquer decisão financeira.
+> ⚠️ **ATUALIZADO COM DADOS REAIS DO TSE.** Veja `revisao-dados-reais.md` — ela **corrige** este dossiê em dois pontos: (1) a base de votos real da candidata (4.398 em 2022 / 657 em 2024, em queda) e (2) a tese de "vantagem digital" — os dados mostram que **tráfego pago NÃO elege federal no TO** e que o digital dela não converteu. Onde houver conflito, vale a revisão.
 
 ---
 
@@ -31,14 +31,14 @@ O único ativo real e diferenciado que ela tem é a **marca pessoal de artista g
 | Marca | 8 álbuns; "Melhor Cantora Gospel do TO" (2013/2014); disco de ouro; ~66 mil seguidores no Instagram | alta |
 | Vínculo religioso | Surgiu nos congressos da CIADSETA; **mas sem o aval institucional da convenção em 2026** | alta |
 
-### Histórico eleitoral (o ponto que mais importa)
-| Ano | Cargo | Partido | Votos | Resultado |
-|---|---|---|---|---|
-| 2022 | Deputada Estadual | (a confirmar) | **~5.000 (aprox.)** | **Não eleita** (suplente) |
-| 2024 | Vereadora de Palmas | Republicanos (nº 10777) | **não confirmado** | **Não eleita** |
-| 2026 | Deputada Federal | Republicanos | — | pré-candidata |
+### Histórico eleitoral (o ponto que mais importa) — DADOS REAIS DO TSE
+| Ano | Cargo | Partido | Votos | Resultado | Gasto / custo/voto |
+|---|---|---|---|---|---|
+| 2022 | Deputada Estadual | **PTB** | **4.398** | **Não eleita** (fora da suplência) | R$ 64.862 / R$ 14,75 |
+| 2024 | Vereadora de Palmas | Republicanos (nº 10777) | **657** | **Suplente** (não eleita) | R$ 119.756 / **R$ 182,28** |
+| 2026 | Deputada Federal | Republicanos | — | pré-candidata | — |
 
-> ⚠️ **Os números exatos precisam ser puxados do DivulgaCandContas/TSE antes de fechar orçamento.** A imprensa cita "quase 5 mil votos" em 2022; o resultado de 2024 não foi localizado na web. Esses dois números são a **linha de base** de qualquer projeção séria — sem eles, todo cálculo é estimativa.
+> ✅ **Números confirmados via TSE Dados Abertos** (ver `dados-brutos/` e `revisao-dados-reais.md`). A trajetória é **4.398 → 657 — caindo, e sem eleger nas duas**. Em 2022 ela era do **PTB** (não Republicanos). Esta é a linha de base real: qualquer salto para a faixa de ~35 mil votos é **hipótese a testar**, não projeção fundamentada.
 
 **Leitura:** o padrão das duas campanhas anteriores foi **voto pulverizado e base não consolidada** — ela espalhou esforço (estadual em 2022, municipal em Palmas em 2024) sem fincar um território. Em 2022, fez parte da **enxurrada de candidatos da CIADSETA** (Gipão, Rubens Uchôa, Saulo Telles, ela), que pulverizou o voto evangélico e elegeu só Gipão (estadual). Ela nunca foi a "escolhida".
 
