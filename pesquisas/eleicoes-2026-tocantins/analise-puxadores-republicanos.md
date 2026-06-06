@@ -1,155 +1,162 @@
-# Estudo Profundo — Os Puxadores de Voto do Republicanos-TO
+# Estudo Profundo — Puxadores, Marketing e Direcionamento Estratégico
 
-**Critérios, votos, investimento real e como a Rosilene Martins pode se igualar**
-**Deputado Federal / Tocantins · Eleições 2026**
+**Republicanos-TO · Deputado Federal 2026 · foco: Rosilene Martins**
+**Base:** TSE Dados Abertos (prestação de contas + votação nominal), eleições 2022/2024/2016. Brutos em `dados-brutos/`.
 
-> **Dados:** TSE — Dados Abertos (prestação de contas + votação nominal), eleições 2022/2024/2016. Recortes `_TO`, ligação nome→`SQ_CANDIDATO`, soma de `VR_DESPESA_CONTRATADA` por categoria e `QT_VOTOS_NOMINAIS` por município. Brutos em `dados-brutos/RELATORIO-MESTRE-dados-reais-tse.md`; script em `extrair_gastos_tse.py`.
-> **Definição de "tráfego pago":** estritamente a rubrica TSE **"Despesa com Impulsionamento de Conteúdos"** (Meta/Google). Produção de vídeo/rádio/TV NÃO entra (é broadcast), para não inflar o número.
-> Todos os valores abaixo são **reais e declarados ao TSE**, salvo onde marcado "estimativa".
-
----
-
-## 1. Que critério define um "puxador"? Por que estão nessa posição?
-
-A resposta direta: **para 3 dos 4 puxadores do Republicanos, o critério NÃO é média de votos.** Eles nunca disputaram deputado federal. O que os define é **capital político institucional** (estrutura que entrega voto sem precisar construí-lo do zero):
-
-| Puxador 2026 | Critério que o coloca na posição | Já foi candidato a Fed.? | Voto federal real |
-|---|---|---|---|
-| **Ricardo Ayres** | **Incumbência** — mandato federal, titular da CCJC, maior relator do TO. | ✅ 2022 | **45.880** |
-| **Coronel Márcio Barbosa** | **Base corporativa (PM) + pauta segurança + padrinhos** (Flávio/Jair Bolsonaro). | ❌ nunca | — |
-| **Atos Gomes** | **Máquina estatal** — ex-secretário de Esportes; proximidade com o governador. | ❌ nunca | — |
-| **Fábio Vaz** | **Máquina + base municipal** — ex-secretário de Educação e **ex-prefeito de Palmeirópolis (2.697 votos em 2016)**. | ❌ nunca (a Fed.) | só municipal |
-
-➡️ **Conclusão da seção:** "puxador" aqui = **estrutura pronta** (mandato, governo do estado, corporação, prefeitura), não popularidade testada nas urnas. **Só o Ricardo Ayres tem voto federal comprovado.** Para os outros três, votação 2026 é **aposta**, não retrospecto. Isso importa para a Rosilene: a disputa real é por **estrutura/máquina**, não por "fama".
+> **O que entra em "Marketing & Comunicação":** publicidade impressa (santinho/panfleto) + comunicação visual/adesivos + produção audiovisual (rádio/TV/vídeo, para o horário gratuito e internet) + jingles + carro de som + tráfego pago (impulsionamento) + site/redes. **Não inclui** equipe, militância de rua, estrutura/logística, jurídico nem doações (blocos separados).
+> ⚖️ **Nota legal:** é proibido comprar espaço em TV/rádio (Lei 9.504/97). O "audiovisual" declarado é **produção** de conteúdo, não compra de mídia.
 
 ---
 
-## 2. Média de votos e tamanho de investimento — NÚMEROS REAIS
+## PARTE I — CONTEXTO GERAL
 
-### 2.1 Tabela mestra — os 8 eleitos em 2022 (votos × gasto × digital)
+### 1. Quadro consolidado: custo total × marketing × votos
 
-| # | Eleito | Partido | Votos | Despesa total | % recursos do partido¹ | Tráfego pago | % tráfego | Custo/voto |
-|---|---|---|---:|---:|---:|---:|---:|---:|
-| 1 | Toinho Andrade | Republicanos | 63.813 | R$ 846.088 | 79,3% | R$ 0 | 0,0% | **R$ 13,26** |
-| 2 | Vicentinho Júnior | PP | 55.292 | R$ 2.609.510 | 91,3% | R$ 2.049 | 0,1% | R$ 47,20 |
-| 3 | Alexandre Guimarães | Republicanos | 54.703 | R$ 925.777 | 61,6% | R$ 0 | 0,0% | R$ 16,92 |
-| 4 | Carlos Gaguim | União | 52.203 | R$ 2.199.647 | 98,9% | R$ 30.000 | 1,4% | R$ 42,14 |
-| 5 | **Ricardo Ayres** | **Republicanos** | **45.880** | **R$ 774.815** | 71,1% | **R$ 10.000** | 1,3% | **R$ 16,89** |
-| 6 | Filipe Martins | PL | 36.293 | R$ 785.493 | 55,7% | **R$ 39.500** | **5,0%** | R$ 21,64 |
-| 7 | Eli Borges | PL | 35.171 | R$ 1.999.950 | 99,2% | R$ 0 | 0,0% | R$ 56,86 |
-| 8 | Lázaro Botelho | PP | 13.668 | R$ 2.659.934 | 99,2% | R$ 0 | 0,0% | R$ 194,61 |
+| Candidato | Partido | Votos | Custo TOTAL | Marketing & Com. | % em mkt | Custo/voto |
+|---|---|---:|---:|---:|---:|---:|
+| Toinho Andrade | Republicanos | 63.813 | R$ 846.088 | R$ 92.938 | 11,0% | R$ 13,26 |
+| Vicentinho Júnior | PP | 55.292 | R$ 2.609.510 | **R$ 1.059.205** | 40,6% | R$ 47,20 |
+| Alexandre Guimarães | Republicanos | 54.703 | R$ 925.777 | R$ 554.710 | 59,9% | R$ 16,92 |
+| Carlos Gaguim | União | 52.203 | R$ 2.199.647 | R$ 404.014 | 18,4% | R$ 42,14 |
+| **Ricardo Ayres** | **Republicanos** | **45.880** | **R$ 774.815** | **R$ 252.006** | 32,5% | **R$ 16,89** |
+| Filipe Martins | PL | 36.293 | R$ 785.493 | R$ 376.129 | 47,9% | R$ 21,64 |
+| Eli Borges | PL | 35.171 | R$ 1.999.950 | R$ 271.280 | 13,6% | R$ 56,86 |
+| Lázaro Botelho | PP | 13.668 | R$ 2.659.934 | R$ 677.021 | 25,5% | R$ 194,61 |
+| **Rosilene (Est. 2022)** | PTB | 4.398 | R$ 64.863 | **R$ 19.390** | 29,9% | R$ 14,75 |
+| **Rosilene (Ver. 2024)** | Republicanos | 657 | R$ 119.756 | **R$ 12.894** | 10,8% | R$ 182,28 |
 
-¹ FEFC (Fundo Eleitoral) + Fundo Partidário somados — o TSE não os separa neste recorte.
+**Leitura geral:**
+- **Marketing dos eleitos:** de **R$ 252 mil (Ayres)** a **R$ 1,06 mi (Vicentinho)**. Média ~**R$ 461 mil**.
+- **Rosilene:** R$ 19,4 mil (2022) e **R$ 12,9 mil (2024)** — o **menor marketing entre os eleitos foi ~13x o maior gasto dela**, e ~20x o de 2024. Em termos de comunicação, **ela praticamente não disputou.**
+- **Custo/voto** despenca com escala e capilaridade física: Toinho R$ 13, Ayres R$ 17. Lázaro (R$ 195) é o eleito "por média".
 
-**Médias dos eleitos:**
-- **Voto médio:** ~44.600 (sem o outlier Lázaro: ~49.000). **Faixa de entrada real: 35 mil votos** (Filipe/Eli).
-- **Gasto médio:** **~R$ 1,6 milhão** — mas distorcido pelos caros. **Modelo eficiente (Republicanos): R$ 775–925 mil** para 45–64 mil votos.
-- **Tráfego pago médio:** **~R$ 10 mil (0,6% do orçamento).**
+### 2. Marketing por frente — onde cada um colocou o dinheiro
 
-### 2.2 Quanto investiram os 4 puxadores do Republicanos
-- **Ricardo Ayres:** R$ 774.815 → 45.880 votos. **É o único com dado real.**
-- **Coronel Barbosa, Atos Gomes, Fábio Vaz:** **sem histórico federal** — não há "investimento × voto" deles. Fábio tem referência municipal: R$? para 2.697 votos em Palmeirópolis (2016). *Investimento 2026 deles será novo, sem base comparável.*
+| Candidato | Impressa | Adesivo/visual | Audiovisual | Jingle | Carro som | **Tráfego pago** | **Site/redes** | MKT total |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Toinho Andrade | 80.408 | 12.530 | 0 | 0 | 0 | 0 | **0** | 92.938 |
+| Vicentinho Júnior | 128.199 | 640.957 | 253.000 | 35.000 | 0 | 2.049 | **0** | 1.059.205 |
+| Alexandre Guimarães | 417.413 | 125.997 | 0 | 1.300 | 10.000 | 0 | **0** | 554.710 |
+| Carlos Gaguim | 165.014 | 200.000 | 0 | 0 | 9.000 | 30.000 | **0** | 404.014 |
+| Ricardo Ayres | 193.136 | 48.870 | 0 | 0 | 0 | 10.000 | **0** | 252.006 |
+| Filipe Martins | 163.770 | 155.158 | 15.000 | 2.700 | 0 | **39.500** | **0** | 376.129 |
+| Eli Borges | 126.950 | 137.930 | 0 | 0 | 6.400 | 0 | **0** | 271.280 |
+| Lázaro Botelho | 350.700 | 146.321 | 180.000 | 0 | 0 | 0 | **0** | 677.021 |
+| Rosilene 2022 | 16.390 | 0 | 0 | 0 | 0 | 3.000 | **0** | 19.390 |
+| Rosilene 2024 | 9.240 | 1.454 | 0 | 0 | 0 | 2.200 | **0** | 12.894 |
 
----
+**As 3 descobertas que orientam a estratégia:**
+1. **O marketing no TO é uma guerra de gráfica.** O grosso vai para **impressa + adesivo/visual** (santinho, adesivagem, comunicação visual). É um jogo de **volume e dinheiro** — quem põe R$ 400–640 mil em adesivo (Vicentinho, Gaguim) domina a rua.
+2. **O digital é território VAZIO.** **Todos** gastaram **R$ 0 em site/redes.** O tráfego pago é minúsculo: máximo R$ 39,5 mil (Filipe), e **a maioria gastou R$ 0 ou ~R$ 2 mil.** Ninguém estruturou presença digital de verdade.
+3. **A Rosilene não jogou nenhum dos dois jogos** — gastou ~R$ 13 mil no total de comunicação. Não dá para concluir que "o método dela falhou": **ela não financiou método nenhum.**
 
-## 3. Quanto gastaram com marketing digital / internet / tráfego — REAL
+### 3. Composição do custo TOTAL por bloco
 
-**A descoberta mais importante do estudo: o digital NÃO decide a eleição federal no TO.**
+| Candidato | Marketing | Equipe & serviços | Mobilização/rua | Estrutura/logística | Pesquisas | Outros/fin. |
+|---|---:|---:|---:|---:|---:|---:|
+| Toinho Andrade | 92.938 | 400.100 | 103.050 | 249.798 | 0 | 202 |
+| Vicentinho Júnior | 1.059.205 | 241.150 | 471.852 | 835.131 | 0 | 2.172 |
+| Alexandre Guimarães | 554.710 | 127.257 | 192.678 | 47.416 | 0 | 3.716 |
+| Carlos Gaguim | 404.014 | 1.027.500 | 212.300 | 202.365 | 0 | 353.468 |
+| Ricardo Ayres | 252.006 | 81.000 | 210.345 | 230.131 | 0 | 1.333 |
+| Filipe Martins | 376.129 | 73.500 | 265.300 | 68.508 | 0 | 2.056 |
+| Eli Borges | 271.280 | 69.600 | 581.600 | 354.332 | 21.500 | 701.638 |
+| Lázaro Botelho | 677.021 | 733.412 | 92.134 | 1.129.920 | 20.000 | 7.448 |
+| Rosilene 2022 | 19.390 | 10.700 | 22.700 | 12.050 | 0 | 23 |
+| Rosilene 2024 | 12.894 | 5.350 | 65.000 | 36.500 | 0 | 12 |
 
-- O **campeão de tráfego** entre os eleitos foi **Filipe Martins: R$ 39.500 (5,0%)** — e ainda assim é só 5% do orçamento dele.
-- **Cinco dos oito eleitos gastaram R$ 0 ou ~R$ 2 mil** em impulsionamento.
-- **Eli Borges fez 35.171 votos com R$ 0 de tráfego pago.**
-- Ricardo Ayres: só **R$ 10 mil (1,3%)**, via Facebook Serviços Online.
-
-➡️ **O que efetivamente produz voto no TO** (lendo as maiores rubricas dos eleitos eficientes): **militância/mobilização de rua, material impresso, adesivagem, locação de veículos e combustível** — ou seja, **máquina de chão**. Mais o **fundo partidário** que banca tudo isso. Digital é coadjuvante, não protagonista.
-
-> **Implicação para a Rosilene:** o digital não é o fator decisivo. Em **2024 ela tinha ~66 mil seguidores, pagou R$ 2,2 mil de tráfego e fez 657 votos** — alcance não virou voto. O desafio dela é **conversão (fama → voto)**, não alcance.
-
----
-
-## 4. As fichas reais dos 3 melhores espelhos
-
-### 4.1 Ricardo Ayres (Republicanos) — o modelo de EFICIÊNCIA · 45.880 votos
-- **Receita R$ 850.731:** partido R$ 604.531 (71%) · PF R$ 228.600 (27%) · próprios R$ 10.000 · outros R$ 7.600.
-- **Despesa R$ 774.815** · **Custo/voto R$ 16,89.**
-- **Maiores gastos:** Material impresso **R$ 193.136** · Militância de rua **R$ 179.345** · Veículos **R$ 154.250** · Combustível R$ 66.881 · Adesivos R$ 48.870. **Tráfego: só R$ 10.000.**
-- **Top municípios:** Palmas 6.124 · Porto Nacional 3.762 · Miracema 1.972 · Axixá 1.844 · Dianópolis 1.546 · Gurupi 1.336 · Guaraí 942.
-- **Lição:** voto **capilar** (bem distribuído), barato, movido a **rua + impresso**. É o que dá mais voto por real.
-
-### 4.2 Filipe Martins (PL) — espelho evangélico nº 1 · 36.293 votos
-- **Receita R$ 899.080:** partido 56% · próprios 33%. **Despesa R$ 785.493** · **R$ 21,64/voto.**
-- **Tráfego R$ 39.500 (5,0%)** — o maior do estado, e mesmo assim minoritário.
-- **Maiores gastos:** Militância R$ 265.300 · Impresso R$ 163.770 · Adesivos R$ 155.158.
-- **Top:** **Palmas 13.051 (36% do total)** · Gurupi 2.436 · Araguaína 1.573. **Voto muito concentrado na capital.**
-
-### 4.3 Eli Borges (PL) — espelho evangélico nº 2 · 35.171 votos · MESMA IGREJA (CIADSETA)
-- **Receita R$ 2.016.740 — 99,2% fundo partidário.** **Despesa R$ 1.999.950** · **R$ 56,86/voto.**
-- **Tráfego R$ 0.** Maiores gastos: **Doações a aliados R$ 698.300** · Militância R$ 581.600 · Veículos R$ 265.350.
-- **Top:** Palmas 10.304 · Araguaína 2.014 · Gurupi 1.822.
-- **Lição decisiva:** o pastor da **mesma igreja da Rosilene** venceu no modelo **"rede de igrejas + R$ 2 mi de fundo, zero digital"**. É **exatamente a máquina que a Rosilene não tem** — porque a CIADSETA fechou com Henrique Martins (PL). O caminho comprovado do nicho dela está **ocupado pelo adversário**.
+> Observação: só dois candidatos declararam **pesquisas** (Eli, Lázaro). Eli usou R$ 698 mil em **doações a aliados** (bloco "outros"). Lázaro pôs R$ 1,13 mi em estrutura/logística. São campanhas de "máquina", não de comunicação.
 
 ---
 
-## 5. A linha de base real da Rosilene (para dimensionar o salto)
+## PARTE II — DETALHE POR CANDIDATO (agências/fornecedores)
 
-| Eleição | Partido | Votos | Resultado | Gasto | Tráfego | Custo/voto |
-|---|---|---:|---|---:|---:|---:|
-| 2022 Estadual | **PTB** | **4.398** | não eleita | R$ 64.862 | R$ 3.000 | R$ 14,75 |
-| 2024 Vereadora Palmas | Republicanos | **657** | suplente | R$ 119.756 | R$ 2.200 | **R$ 182,28** |
+### Ricardo Ayres — Republicanos · 45.880 votos · R$ 774.815 (ALVO PRIORITÁRIO)
+- **Marketing R$ 252.006 (32,5%):** impressa R$ 193.136 · adesivo R$ 48.870 · tráfego R$ 10.000.
+- **Fornecedores:** MA Gráfica Editora R$ 101.690 · Invent Publicidade R$ 20.240 · **Lua Digital – Publicidade e Mídias Alternativas R$ 15.000**.
+- **Modelo:** impresso pesado + capilaridade de rua; digital simbólico. Eficiente (R$ 16,89/voto).
 
-**Trajetória 4.398 → 657 (caindo).** Base própria pequena, concentrada em **Palmas + Guaraí** — justamente onde Filipe e Eli são mais fortes (disputa direta no terreno deles).
+### Filipe Martins — PL · 36.293 votos · R$ 785.493 (espelho evangélico nº 1)
+- **Marketing R$ 376.129 (47,9%):** impressa R$ 163.770 · adesivo R$ 155.158 · audiovisual R$ 15.000 · jingle R$ 2.700 · **tráfego R$ 39.500 (o maior do estado).**
+- **Modelo:** o que mais investiu em comunicação proporcionalmente e o **maior em digital** — voto concentrado em Palmas (13.051, 36%).
+
+### Eli Borges — PL · 35.171 votos · R$ 1.999.950 (espelho evangélico nº 2 · MESMA IGREJA, CIADSETA)
+- **Marketing R$ 271.280 (13,6%):** impressa R$ 126.950 · adesivo R$ 137.930 · carro de som R$ 6.400 · **tráfego R$ 0.**
+- **Fornecedores:** Gráfica Santo Expedito R$ 71.880 · Lotus Gráfica R$ 42.800 · Discovery (pesquisa) R$ 21.500.
+- **Modelo:** "igreja + fundo partidário (99%)", **zero digital**, R$ 698 mil para irrigar aliados. Máquina, não comunicação.
+
+### Vicentinho Júnior — PP · 55.292 · R$ 2,61 mi
+- **Marketing R$ 1,06 mi (40,6%):** adesivo **R$ 640.957** · audiovisual R$ 253.000 · impressa R$ 128.199 · jingle R$ 35.000 · tráfego R$ 2.049. Fornecedores: In Print R$ 396.458 · SR Comunicação R$ 253.000 · Supermídia R$ 153.435.
+
+### Alexandre Guimarães — Republicanos · 54.703 · R$ 925.777
+- **Marketing R$ 554.710 (59,9% — maior % do estado):** impressa **R$ 417.413** · adesivo R$ 125.997. Fornecedor: Ethos Comunicação R$ 468.567. Modelo todo concentrado em gráfica/impresso.
+
+### Carlos Gaguim — União · 52.203 · R$ 2,2 mi
+- **Marketing R$ 404.014 (18,4%):** adesivo R$ 200.000 · impressa R$ 165.014 · **tráfego R$ 30.000** · carro R$ 9.000. Equipe & serviços altíssima (R$ 1,03 mi).
+
+### Toinho Andrade — Republicanos · 63.813 (mais votado) · R$ 846.088
+- **Marketing só R$ 92.938 (11%):** impressa R$ 80.408 · adesivo R$ 12.530. **Venceu com o MENOR marketing** — pura capilaridade/estrutura (equipe R$ 400 mil).
+
+### Lázaro Botelho — PP · 13.668 · R$ 2,66 mi
+- **Marketing R$ 677.021 (25,5%):** impressa R$ 350.700 · audiovisual R$ 180.000 · adesivo R$ 146.321. Eleito "por média" apesar do gasto altíssimo (R$ 195/voto).
+
+### Rosilene Martins — histórico próprio
+- **2022 (Estadual, PTB) · 4.398 votos · R$ 64.863:** marketing R$ 19.390 (impressa R$ 16.390 · tráfego R$ 3.000). Fornecedor: Gráfica Santo Expedito R$ 10.900.
+- **2024 (Vereadora Palmas, Republicanos) · 657 votos · R$ 119.756:** marketing **R$ 12.894** (impressa R$ 9.240 · adesivo R$ 1.454 · tráfego R$ 2.200).
 
 ---
 
-## 6. Como poderíamos nos igualar? (com números reais)
+## PARTE III — A POSIÇÃO DA ROSILENE E O DIRECIONAMENTO ESTRATÉGICO
 
-**Premissa que os dados impõem:** o gargalo **não é dinheiro, é estrutura**. R$ 800 mil viraram 45 mil votos nas mãos do Ayres (que tem chão) e poucos milhares nas da Rosilene (que não tem). Igualar exige, nesta ordem:
+### 4. O investimento de marketing dela foi irrisório (o dado que reabre o jogo)
+| | Marketing investido | vs. eleito mais "enxuto" (Ayres, R$ 252k) |
+|---|---:|---:|
+| Eleitos federais (faixa) | R$ 252 mil – R$ 1,06 mi | — |
+| Rosilene 2022 (estadual) | R$ 19.390 | **~13x menos** |
+| Rosilene 2024 (vereadora) | R$ 12.894 | **~20x menos** |
 
-### 6.1 O que "igualar" custa de fato
-| Para chegar a… | Modelo | Investimento real de referência | Pré-requisito |
-|---|---|---|---|
-| **35 mil votos** (faixa de entrada) | eficiente (Ayres) | **R$ 700–900 mil** | **ter máquina de chão** — senão não converte |
-| **45 mil votos** (nível Ayres) | eficiente | **R$ 800 mil–1,0 mi** | idem + capilaridade no interior |
-| **Igualar o tráfego pago** | digital | **~R$ 40 mil** (o teto foi Filipe) | barato e **não é o que decide** |
+➡️ **Conclusão honesta:** os 657 votos de 2024 **não provam que a estratégia dela falha** — provam que **ela não investiu em estratégia nenhuma.** Comparar o resultado dela com o dos eleitos é comparar quem gastou R$ 13 mil com quem gastou R$ 250 mil–1 mi. **O teste de verdade nunca foi feito.**
 
-➡️ **Igualar o digital é trivial (~R$ 40 mil).** Igualar o **voto** exige reproduzir a **máquina de chão** — o que custa menos em dinheiro do que em **organização** (lideranças, militância, rede no interior). É aí que está a real distância.
+### 5. Por que o DIGITAL é a vantagem dela (olhando todo o contexto)
+Três fatos da tabela sustentam isso:
+1. **A guerra tradicional é impossível de vencer no bolso dela.** Para competir em impresso/adesivo, precisa de R$ 250–640 mil só nisso — patamar dos puxadores. Ela não tem.
+2. **O digital é um oceano azul:** **R$ 0 de todos em site/redes** e tráfego mínimo. **Ninguém ocupou esse espaço** — não há concorrência instalada.
+3. **Ela já tem o ativo que os outros teriam que comprar:** ~66 mil seguidores e marca gospel construída. É **mídia própria** — alcance que, para os puxadores, custaria caro e levaria anos. É a única dimensão em que ela **larga na frente** dos quatro puxadores (todos fracos em digital).
 
-### 6.2 Onde investir para fechar a distância (alocação orientada pelos dados)
-Espelhando o que **realmente** elege (modelo Ayres), não o que parece moderno:
-- **Chão (militância, impresso, adesivagem, veículos, combustível, lideranças locais): ~60%** — é o que produz voto.
-- **Eventos / circuito gospel: ~18%** — mídia barata e exclusiva dela (shows = comício legal).
-- **Digital reengenheirado para CONVERSÃO: ~15–18%** — não para alcance (ela já tem), mas para **transformar seguidor em eleitor identificado** (captar telefone/CEP em todo evento, grupos por município). Meta = voto, não like.
-- **Estrutura/jurídico/contábil: ~6%.**
+> **Direcionamento:** a vantagem competitiva dela **não é** disputar santinho com quem tem gráfica milionária — **é transformar a audiência orgânica em voto**, num canal que os adversários ignoram. Isso exige duas coisas que faltaram em 2024: **investimento real** (e não R$ 2,2 mil) e **engenharia de conversão** (não só alcance) — captar contato/CEP em cada evento, grupos por município, lives, e levar o seguidor até a urna com identificação territorial.
 
-### 6.3 Onde há brecha (mapa de eficiência)
-Filipe e Eli dependem de Palmas (30–36% dos votos lá). A **brecha é o interior / cidades médias** ainda não dominadas por evangélicos — mas isso exige **construir rede de chão no interior**, que ela ainda não tem. O ativo dela (Guaraí + circuito gospel) é ponto de partida estreito.
+### 6. Critério dos puxadores (para situar a disputa)
+"Puxador" no Republicanos = **capital institucional**, não voto passado: **Ricardo Ayres** (incumbência, único com voto federal real — 45.880); **Cel. Márcio Barbosa** (base PM + padrinhos); **Atos Gomes** (máquina de governo); **Fábio Vaz** (máquina + ex-prefeito de Palmeirópolis, 2.697 votos em 2016). Três dos quatro **nunca disputaram federal** — são estrutura, não popularidade testada. **Nenhum deles tem presença digital relevante.**
+
+### 7. Como se igualar / o mix recomendado
+A Rosilene **não** se iguala na guerra de gráfica. Ela se iguala **mudando o terreno**: digital (onde lidera) + presença física mínima para credibilidade + circuito gospel como mídia própria. Mix sugerido de comunicação:
+
+| Frente | % do orçamento de mkt | Por quê |
+|---|---:|---|
+| **Digital (conteúdo + tráfego + conversão)** | **40–50%** | sua vantagem; lane vazia; ativo orgânico de 66k |
+| **Circuito gospel / eventos** | 20–25% | mídia própria barata; público dela; vira "comício" legal |
+| **Impresso/adesivo (mínimo de credibilidade)** | 20–25% | presença física obrigatória, mas enxuta |
+| **Jingle/áudio para WhatsApp e rádio interior** | 8–10% | barato e capilar |
+
+> **Importante:** o digital é a **ponta de lança**, mas precisa de um **mínimo de chão** (lideranças + presença) para converter — todos os eleitos tinham estrutura física. A fórmula vencedora dela é **digital forte + chão suficiente**, não digital isolado.
 
 ---
 
-## 7. Respostas diretas às suas perguntas
+## PARTE IV — RESPOSTAS DIRETAS
 
-| Pergunta | Resposta (real) |
+| Pergunta | Resposta com dado real |
 |---|---|
-| **Critério dos puxadores?** | Capital institucional (mandato/máquina/corporação), não voto passado. Só Ayres tem voto federal real. |
-| **Média de voto deles?** | Eleitos: ~44,6 mil (entrada ~35 mil). Dos 4 puxadores, só Ayres tem: **45.880**. |
-| **Investimento × voto?** | Modelo eficiente: **R$ 775–925 mil → 45–64 mil votos**. Média geral inflada: R$ 1,6 mi. Ayres: **R$ 16,89/voto.** |
-| **Gasto com digital/tráfego?** | Baixíssimo. Máximo R$ 39,5 mil (Filipe, 5%); média ~R$ 10 mil (0,6%). **Eli: zero.** |
-| **Como nos igualar?** | Digital se iguala com ~R$ 40 mil (não decide). **Voto** exige máquina de chão: ~R$ 700–900 mil **+ estrutura organizada** (o real gargalo). |
-| **Números reais?** | Todos acima são do TSE (Dados Abertos). Brutos em `dados-brutos/`. |
-
----
-
-## 8. Veredito
-
-- **O que elege federal no TO é chão + fundo + rede organizada — não digital.** Provado pelos 8 eleitos.
-- **O modelo de vitória do nicho da Rosilene (Eli Borges/CIADSETA) está com o adversário** (Henrique Martins).
-- **Igualar os puxadores em voto custa ~R$ 800 mil**, mas só funciona com a **estrutura de chão** que ela ainda não tem; sem ela, repete o R$ 182/voto de 2024.
-- **Recomendação:** investir em **construir máquina de chão** (não em tráfego), usar 2026 para **sair de ~4 mil e cruzar a cláusula de 10% (~11 mil)** como puxadora útil ao partido, e só mirar eleição direta se conquistar **fundo do Republicanos + rede de igrejas própria**.
+| **Critério dos puxadores?** | Capital institucional (mandato/máquina/corporação). Só Ayres tem voto federal real. |
+| **Média de votos deles?** | Eleitos ~44,6 mil; entrada ~35 mil. Ayres: 45.880. |
+| **Investiram quanto × votos?** | Custo total R$ 775 mil–2,6 mi; **marketing R$ 252 mil–1,06 mi**. Modelo eficiente (Ayres): R$ 16,89/voto. |
+| **Gasto com marketing detalhado?** | Predomínio de **impressa + adesivo**. Digital ínfimo (site/redes = R$ 0 em todos; tráfego máx. R$ 39,5 mil). |
+| **Investimento da Rosilene?** | R$ 19,4 mil (2022) e **R$ 12,9 mil (2024)** — ~13–20x menor que o eleito mais enxuto. **Ela mal investiu.** |
+| **O digital é vantagem dela?** | **Sim.** Lane vazia + ativo orgânico de 66k que os puxadores não têm. É o único terreno onde ela larga na frente. |
+| **Como se igualar?** | Não na gráfica (impossível no bolso dela). **Mudando o terreno:** digital de conversão + gospel + chão mínimo. |
 
 ---
 
 ### Pendências (coleta ao vivo, fora dos dados abertos)
-- [ ] Redes sociais comparadas (seguidores/engajamento) — Ayres, Rosilene, Cel. Barbosa, Atos, Fábio.
+- [ ] Redes sociais comparadas (seguidores/engajamento de cada puxador vs. Rosilene) — para quantificar a vantagem orgânica.
 - [ ] Meta Ad Library — tráfego pago atual dos pré-candidatos 2026.
 - [ ] CEAP do Ayres (estrutura de gabinete).
-- [ ] Fábio Vaz 2012 (votos) e valor gasto em 2016.
