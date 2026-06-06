@@ -156,6 +156,69 @@ A Rosilene **não** se iguala na guerra de gráfica. Ela se iguala **mudando o t
 
 ---
 
+## PARTE V — PLANO OPERACIONAL (orçamento e metas)
+
+> Tudo aqui é **planejamento** (metas de trabalho), não previsão. Ancorado no eleitorado real de cada cidade, na base histórica da Rosilene (Palmas + Guaraí) e no mix da Parte III. Premissa central: **mudar o terreno** — digital onde ela lidera, chão mínimo para converter, e evitar a guerra de gráfica.
+
+### 8. Dois cenários de campanha
+
+#### Cenário A — Construção / piso competitivo · **R$ 600 mil** · meta ~14 mil votos
+Objetivo: sair de ~4 mil, **cruzar a cláusula de 10% (~11 mil)** e virar **puxadora útil ao Republicanos** (ajuda a legenda a fazer a 4ª cadeira), construindo base para 2030. Risco controlado.
+
+| Bloco | % | R$ | Detalhe |
+|---|---:|---:|---|
+| **Marketing & comunicação** | 50% | **300.000** | ver quebra abaixo |
+| Chão (lideranças, militância, mobilização) | 28% | 168.000 | 20–30 lideranças nas cidades-alvo |
+| Estrutura / logística / deslocamento | 15% | 90.000 | TO é grande; circuito de eventos |
+| Jurídico / contábil | 7% | 42.000 | obrigatório, enxuto |
+
+**Quebra do marketing (R$ 300 mil):**
+| Frente | % mkt | R$ | Foco |
+|---|---:|---:|---|
+| **Digital (conteúdo + tráfego + conversão)** | 50% | **150.000** | a ponta de lança — ver KPIs |
+| Circuito gospel / eventos | 22% | 66.000 | shows = comício legal; mídia própria |
+| Impresso / adesivo (mínimo de credibilidade) | 20% | 60.000 | presença física enxuta |
+| Áudio / jingle / rádio interior | 8% | 24.000 | barato e capilar |
+
+#### Cenário B — Competitivo / disputa de vaga · **R$ 2,2 mi** · meta ~32 mil votos
+Objetivo: entrar na faixa de eleição. **Só faz sentido com (a) fundo robusto do Republicanos e (b) rede de igrejas/lideranças própria montada até a convenção.** Sem isso, vira o R$ 182/voto de 2024 com mais zeros.
+
+| Bloco | % | R$ |
+|---|---:|---:|
+| Marketing & comunicação | 45% | 990.000 |
+| Chão (lideranças, militância) | 32% | 704.000 |
+| Estrutura / logística | 16% | 352.000 |
+| Jurídico / contábil | 7% | 154.000 |
+
+*No marketing do Cenário B, manter digital como maior fatia (~45%, ~R$ 445 mil), com escala de produção, equipe de conteúdo e tráfego segmentado por município.*
+
+### 9. Metas de voto por cidade/região (Cenário A ≈ 14 mil)
+
+| Região / cidade | Eleitorado | Meta de votos | Lógica |
+|---|---:|---:|---|
+| **Palmas** (âncora) | 172.344 | **4.500** | mora lá + maior base gospel; disputa com Filipe/Eli, mas é o maior colégio |
+| **Guaraí + central-norte** (Colinas, Miracema, Guaraí) | ~60.000 | **2.500** | cidade natal; circuito gospel; menor concorrência instalada |
+| **Porto Nacional / Paraíso / Pium** | ~85.000 | **2.000** | cidades médias, voto evangélico não travado |
+| **Gurupi + sul** | ~90.000 | **1.500** | presença pontual; evitar choque com puxadores do sul |
+| **Circuito gospel interior** (cidades menores) | difuso | **2.500** | mapa de shows = mapa de campanha |
+| **Digital → voto em todo o estado** | — | **1.000** | conversão da audiência orgânica não territorializável |
+| **TOTAL** | | **~14.000** | cruza a cláusula de 10% com folga |
+
+> ❌ **Não priorizar Araguaína** (território Henrique Martins/CIADSETA) — só presença simbólica. Brigar lá é gastar onde o adversário é mais forte.
+
+### 10. KPIs do digital (para não repetir 2024: alcance que não vira voto)
+- **Conversão, não alcance:** captar **nome + telefone + cidade** em todo evento/live; meta de **base própria de 20–30 mil contatos** georreferenciados até setembro.
+- **Grupos por município** (WhatsApp/Telegram) com liderança local responsável.
+- **Tráfego segmentado** por cidade-alvo e público (mulheres evangélicas, fiéis do circuito dela) — não impulsionar "para todo o Brasil".
+- **Métrica que importa:** custo por contato capturado e taxa de comparecimento à urna, não curtidas.
+
+### 11. Cronograma
+- **Jun–Jul:** fechar fundo + cota com Wanderlei; montar rede de lideranças; estruturar base digital por cidade.
+- **Ago (registro/convenção):** lançar com território, narrativa e mix definidos.
+- **Ago–Out:** execução — circuito gospel + tráfego de conversão + chão nas cidades-alvo.
+
+---
+
 ### Pendências (coleta ao vivo, fora dos dados abertos)
 - [ ] Redes sociais comparadas (seguidores/engajamento de cada puxador vs. Rosilene) — para quantificar a vantagem orgânica.
 - [ ] Meta Ad Library — tráfego pago atual dos pré-candidatos 2026.
