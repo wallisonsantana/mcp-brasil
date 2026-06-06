@@ -11,7 +11,7 @@
 
 ## 1. Que critério define um "puxador"? Por que estão nessa posição?
 
-A resposta direta — e que corrige a premissa comum: **para 3 dos 4 puxadores do Republicanos, NÃO é média de votos.** Eles nunca disputaram deputado federal. O que os define é **capital político institucional** (estrutura que entrega voto sem precisar construí-lo do zero):
+A resposta direta: **para 3 dos 4 puxadores do Republicanos, o critério NÃO é média de votos.** Eles nunca disputaram deputado federal. O que os define é **capital político institucional** (estrutura que entrega voto sem precisar construí-lo do zero):
 
 | Puxador 2026 | Critério que o coloca na posição | Já foi candidato a Fed.? | Voto federal real |
 |---|---|---|---|
@@ -63,7 +63,7 @@ A resposta direta — e que corrige a premissa comum: **para 3 dos 4 puxadores d
 
 ➡️ **O que efetivamente produz voto no TO** (lendo as maiores rubricas dos eleitos eficientes): **militância/mobilização de rua, material impresso, adesivagem, locação de veículos e combustível** — ou seja, **máquina de chão**. Mais o **fundo partidário** que banca tudo isso. Digital é coadjuvante, não protagonista.
 
-> **Alerta honesto:** isto **reverte** uma recomendação anterior minha (de superalocar digital como "vantagem da Rosilene"). Os dados não sustentam. Pior: em **2024 a Rosilene tinha ~66 mil seguidores, pagou R$ 2,2 mil de tráfego, e fez 657 votos** — o digital dela **não converteu**. O problema dela não é alcance; é **transformar fama em voto**, e a urna já reprovou isso duas vezes.
+> **Implicação para a Rosilene:** o digital não é o fator decisivo. Em **2024 ela tinha ~66 mil seguidores, pagou R$ 2,2 mil de tráfego e fez 657 votos** — alcance não virou voto. O desafio dela é **conversão (fama → voto)**, não alcance.
 
 ---
 
@@ -114,7 +114,7 @@ A resposta direta — e que corrige a premissa comum: **para 3 dos 4 puxadores d
 
 ➡️ **Igualar o digital é trivial (~R$ 40 mil).** Igualar o **voto** exige reproduzir a **máquina de chão** — o que custa menos em dinheiro do que em **organização** (lideranças, militância, rede no interior). É aí que está a real distância.
 
-### 6.2 Onde investir para fechar a distância (alocação corrigida pelos dados)
+### 6.2 Onde investir para fechar a distância (alocação orientada pelos dados)
 Espelhando o que **realmente** elege (modelo Ayres), não o que parece moderno:
 - **Chão (militância, impresso, adesivagem, veículos, combustível, lideranças locais): ~60%** — é o que produz voto.
 - **Eventos / circuito gospel: ~18%** — mídia barata e exclusiva dela (shows = comício legal).
@@ -144,7 +144,7 @@ Filipe e Eli dependem de Palmas (30–36% dos votos lá). A **brecha é o interi
 - **O que elege federal no TO é chão + fundo + rede organizada — não digital.** Provado pelos 8 eleitos.
 - **O modelo de vitória do nicho da Rosilene (Eli Borges/CIADSETA) está com o adversário** (Henrique Martins).
 - **Igualar os puxadores em voto custa ~R$ 800 mil**, mas só funciona com a **estrutura de chão** que ela ainda não tem; sem ela, repete o R$ 182/voto de 2024.
-- **Recomendação:** investir em **construir máquina de chão** (não em tráfego), usar 2026 para **sair de ~4 mil e cruzar a cláusula de 10% (~11 mil)** como puxadora útil ao partido, e só mirar eleição direta se conquistar **fundo do Republicanos + rede de igrejas própria**. Plano detalhado: ver `revisao-dados-reais.md` (Caminho A).
+- **Recomendação:** investir em **construir máquina de chão** (não em tráfego), usar 2026 para **sair de ~4 mil e cruzar a cláusula de 10% (~11 mil)** como puxadora útil ao partido, e só mirar eleição direta se conquistar **fundo do Republicanos + rede de igrejas própria**.
 
 ---
 
